@@ -1,0 +1,5 @@
+MAX_X = 1500
+MAX_Y = 900
+TITLE = "Rocketship"
+FRAME_RATE = 60
+CELL_SIZE = 25
